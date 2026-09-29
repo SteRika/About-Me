@@ -1,65 +1,50 @@
-# Steven Lim (Tev)
-**Senior .NET/C# Developer & Technical Lead** · Batam, Indonesia
+# Steven Lim
 
-🟢 **Open to fully remote opportunities** (US/EU time zones preferred)
+**Software Engineer | R&D & Industrial Automation**
 
----
+C# / .NET • Python • REST APIs • SQL • Industrial Integration • Robotics • PLC • IoT
 
-## About
+I am a software and R&D engineer with **8+ years of experience** building software, automation, and integration solutions for real production environments. My background combines hands-on software engineering with industrial R&D, system integration, and project leadership.
 
-7+ years building industrial automation, IoT, and enterprise systems. I design and ship production-grade software in **C#/.NET**, integrate with PLCs and edge devices, and apply AI/computer vision to real manufacturing problems. Currently seeking fully remote Senior Developer or Tech Lead roles aligned with US/EU time zones.
+I currently work in an R&D leadership role while remaining technically involved in architecture, development, integration, commissioning, and troubleshooting. I also have remote freelance software-development experience supporting clients in **Singapore and the United States**.
 
----
+## Engineering Focus
 
-## GitHub Stats
-
-![Steven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SteRika&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SteRika&layout=compact&theme=default&hide_border=true)
-
----
-
-## Tech Stack
-
-**Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-
-**Frameworks & Platforms**
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Data & IoT**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC_Integration-FF6600?style=flat)
-
-**AI & DevOps**
-![YOLO](https://img.shields.io/badge/YOLO_CV-00FFFF?style=flat&logo=opencv&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
+- Backend and application development with **C#, .NET 8, ASP.NET Core, Python, and SQL**
+- REST API design, authentication, system integration, and production troubleshooting
+- Industrial connectivity using **serial communication, MQTT, Modbus, PLCs, sensors, and edge devices**
+- Robotics, machine vision, production monitoring, and automation-system integration
+- R&D prototyping from proof of concept through production deployment
+- Technical ownership across software, hardware, manufacturing, and business stakeholders
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [IntegrationPlatform](https://github.com/SteRika/IntegrationPlatform) | Enterprise middleware connecting industrial machines, PLCs, and business systems via unified API | C#, .NET, IoT |
-| [MQTT_SERIAL_BRIDGE](https://github.com/SteRika/MQTT_SERIAL_BRIDGE) | Real-time bridge between serial/RS232 devices and MQTT broker for PLC-to-cloud data pipelines | C#, MQTT, Serial |
-| [MAS_AccountV2](https://github.com/SteRika/MAS_AccountV2) | Accounting module for manufacturing — multi-entity, cost center tracking, financial reporting | C#, SQL Server |
-| [Issue Tracker](https://github.com/SteRika/issue-tracker) | Full-stack issue tracking system for internal team workflows | React, ASP.NET Core, PostgreSQL |
+### [Digital Twin Machine Builder](https://github.com/SteRika/digital-twin-machine-builder)
+Industrial digital-twin and production-simulation platform built with **Python, PySide6, VTK, and CadQuery**. Supports STEP/STP component import, 3D machine assembly, motion sequencing, indexed production simulation, cycle-time analysis, and UPH calculation.
+
+### [Issue Tracker](https://github.com/SteRika/issue-tracker)
+Full-stack issue-management system with an **ASP.NET Core API**, **PySide6 desktop client**, JWT authentication, role-based access, configurable API integration, and issue workflow management.
+
+### [AutoDoor](https://github.com/SteRika/AutoDoor)
+RFID employee access-control system integrating **Python, Arduino, MFRC522 readers, serial communication, REST APIs, device authentication, and relay control** with automatic reconnection and production-oriented error handling.
+
+### [MQTT Serial Bridge](https://github.com/SteRika/MQTT_SERIAL_BRIDGE)
+Industrial edge bridge connecting a **Panasonic FP0 PLC** over serial communication with an MQTT broker. Includes bidirectional messaging, connection monitoring, logging, graceful shutdown, and automatic reconnection.
+
+## Core Technologies
+
+**Software:** C#, .NET 8, ASP.NET Core, Python, JavaScript, SQL  
+**Data:** SQL Server, PostgreSQL  
+**Industrial:** PLC, Modbus RTU, MQTT, Serial/RS232, Arduino, Raspberry Pi, SCARA integration  
+**UI / Desktop:** PySide6, WinForms, Tkinter  
+**Engineering:** REST APIs, JWT, OOP, system integration, production troubleshooting, Git/GitHub
+
+## Professional Profile
+
+I work best on engineering problems where software must interact reliably with real systems. My experience spans application development, backend services, industrial devices, automation equipment, and cross-functional project delivery.
+
+I am particularly interested in international opportunities involving **software engineering, backend development, industrial software, automation, robotics, and R&D engineering**.
 
 ---
 
-## Experience Highlights
-
-- 🏭 **Technical Lead & Senior Developer** at PT Sat Nusapersada Tbk. *(7+ yrs)* — end-to-end delivery of industrial automation and IoT systems
-- 🤖 Built YOLO-based computer vision inspection pipelines, reducing PCB defect escape rates in production
-- 🗂️ Designed enterprise Document Management System (React + ASP.NET Core + PostgreSQL)
-- 🔌 Architected MQTT/serial bridge for real-time PLC-to-cloud data pipelines
-
----
+**Location:** Indonesia · Open to international / remote opportunities
